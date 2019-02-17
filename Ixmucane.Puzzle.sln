@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixmucane.Puzzle", "Ixmucane.Puzzle\Ixmucane.Puzzle.csproj", "{37B5FA3E-93BB-4166-9ED4-12F72509E568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ixmucane.Puzzle.Test", "Ixmucane.Puzzle.Test\Ixmucane.Puzzle.Test.csproj", "{D8B603A2-4463-4519-A3FA-825547C14901}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzelConsole", "PuzzelConsole\PuzzelConsole.csproj", "{878141C0-A7F1-40A3-84E0-4E3EA6F35244}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37B5FA3E-93BB-4166-9ED4-12F72509E568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37B5FA3E-93BB-4166-9ED4-12F72509E568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37B5FA3E-93BB-4166-9ED4-12F72509E568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37B5FA3E-93BB-4166-9ED4-12F72509E568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8B603A2-4463-4519-A3FA-825547C14901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B603A2-4463-4519-A3FA-825547C14901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8B603A2-4463-4519-A3FA-825547C14901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B603A2-4463-4519-A3FA-825547C14901}.Release|Any CPU.Build.0 = Release|Any CPU
+		{878141C0-A7F1-40A3-84E0-4E3EA6F35244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878141C0-A7F1-40A3-84E0-4E3EA6F35244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878141C0-A7F1-40A3-84E0-4E3EA6F35244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878141C0-A7F1-40A3-84E0-4E3EA6F35244}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
